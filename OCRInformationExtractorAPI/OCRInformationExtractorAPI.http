@@ -1,0 +1,6 @@
+@OCRInformationExtractorAPI_HostAddress = http://localhost:5057
+
+GET {{OCRInformationExtractorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

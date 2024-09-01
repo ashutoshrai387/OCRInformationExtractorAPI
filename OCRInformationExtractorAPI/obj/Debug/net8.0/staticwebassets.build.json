@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8VxFyrrEEykI6T5c6pS7qs1ZKUkdegjtwtTkeaR3ozw=",
+  "Source": "OCRInformationExtractorAPI",
+  "BasePath": "_content/OCRInformationExtractorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
